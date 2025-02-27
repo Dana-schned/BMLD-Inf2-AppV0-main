@@ -9,7 +9,7 @@ st.title("Meine erste Streamlit App")
 """
 Diese App wurde von folgenden Personen entwickelt:
 - Dana Schnekenburger (schned06@students.zhaw.ch)
-- Katarina Djuric (djurikat@students.zhaw.ch)
+- Katarina Djuric (djurikat@students.zhaw.ch)   
 
 Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
 
