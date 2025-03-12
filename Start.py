@@ -11,7 +11,7 @@ Diese App wurde von folgenden Personen entwickelt:
 - Dana Schnekenburger (schned06@students.zhaw.ch)
 - Katarina Djuric (djurikat@students.zhaw.ch)   
 
-Diese App ist das leere Gerüst für die App-Entwicklung im Modul Informatik 2 (BMLD/ZHAW)
+Unsere App unterstützt Menschen mit AD(H)S dabei, ihren Alltag strukturierter zu gestalten. Sie bietet einen Wochenplaner, To-Do-Listen und hilfreiche Tipps für eine bessere Organisation. Gleichzeitig hilft sie auch Angehörigen und Freunden, AD(H)S besser zu verstehen, iindem sie praktische Ratschläge und Einblicke vermittelt.
 """
 
 from utils.data_manager import DataManager
