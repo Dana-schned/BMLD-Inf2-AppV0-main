@@ -1,9 +1,7 @@
 # BMLD-Inf2-AppV0
 
-Das leere Gerüst um eine App aufzubauen.
-
-## Autor
-
-Samuel Wehrli (wehs@zhaw.ch)
+Diese App wurde von folgenden Personen entwickelt:
+- Dana Schnekenburger (schned06@students.zhaw.ch)
+- Katarina Djuric (djurikat@students.zhaw.ch) 
 
 
